@@ -1,7 +1,7 @@
 ### Wrappers 👋
 
 Hello,👋 I'm Wrappers -- A iOS engineer. I use Swift, Objective-C, Dart and JavaScripts.
-- 🔭 I’m currently working on Panda Remiit.
+- 🔭 I’m currently working on Panda Remit.
 - 🌱 I’m currently learning Flutter and SwiftUI.
 - 💬 Ask me about iOS.
 - 📫 How to reach me: zhanglive@outlook.com
